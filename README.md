@@ -7,11 +7,11 @@ simple django plurk login apps. this apps not ready yet. please dont use it.
 Install
 -------
 
-* Add ``PLURK_APP_KEY``, and ``PLURK_APP_SECRET`` in settings.py::
+* Add ``PLURK_APP_KEY``, and ``PLURK_APP_SECRET`` in ``settings.py``::
 
 * Add ``django_plurk_login`` to ``INSTALLED_APPS`` in ``settings.py``::
 
-      INSTALLED_APPS = (
+        INSTALLED_APPS = (
             # other apps
             "django_plurk_login",
         )
