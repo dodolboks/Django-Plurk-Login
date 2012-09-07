@@ -1,9 +1,9 @@
 Django Plurk Login
 ==================
 
-simple django plurk login apps. this apps is refactored from our `Bukucinta.com <http://bukucinta.com>`_. code base and not ready yet. please dont use it.
+simple django plurk login apps. this apps is refactored from our http://bukucinta.com code base and not tested. please dont use it in production.
 
-**Author:** `Ali kusnadi <http://twitter.com/dodolboks>`_.
+**Author:** Ali kusnadi http://twitter.com/dodolboks
 
 Install
 -------
@@ -12,10 +12,10 @@ Install
 
 * Add ``django_plurk_login`` to ``INSTALLED_APPS`` in ``settings.py``::
 
-        INSTALLED_APPS = (
-            # other apps
-            "django_plurk_login",
-        )
+            INSTALLED_APPS = (
+               # other apps
+                "django_plurk_login",
+            )
 
 * Add ``django_plurk_login`` to ``INSTALLED_APPS`` in ``settings.py``::
 
