@@ -1,8 +1,9 @@
 Django Plurk Login
 ==================
 
-simple django plurk login apps. this apps not ready yet. please dont use it.
+simple django plurk login apps. this apps is refactored from our `Bukucinta.com <http://bukucinta.com>`_ code base and not ready yet. please dont use it.
 
+Created by `Ali kusnadi <http://twitter.com/dodolboks>`_
 
 Install
 -------
